@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BracketMaker</string>
+    <string name="welcome_to_bracket_maker">Welcome to Bracket Maker!</string>
+</resources>
